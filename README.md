@@ -7,7 +7,7 @@
 <br/>
 
 #### :raising_hand: Introduction
-아이윌시스템즈(IWillSystems) (2019.10 - 2022.07)
+아이윌시스템즈(IWillSystems) (2019.10 - 2022.07) <br>
 Fxgear (프리랜서, 2022.11 - 2023.~)
 <br/>
 
@@ -32,23 +32,23 @@ Fxgear (프리랜서, 2022.11 - 2023.~)
 - Vue, React
 - TypeScript, Redux
 
-- BackEnd
-  - Node.js 
+<b>BackEnd</b>
+- Node.js 
 
-- DevTools
-  - Visual Studio Code, Vim 
-  - Git, SourceTree
-  - Nginx, Jenkins, MySQL
-  - AWS EC2
+<b>DevTools</b>
+- Visual Studio Code, Vim 
+- Git, SourceTree
+- Nginx, Jenkins, MySQL
+- AWS EC2
 
-- Collaboration
-  - Jira & Confluence
-  - Slack
+<b>Collaboration</b>
+- Jira & Confluence
+- Slack
 <br/>
 
 #### :computer: Work Experience & Projects
 
-IWillSystems
+<b>IWillSystems</b>
 - 실시간 영상 플랫폼 Live-Director
   - JavaScript, Node.js, CSS
   - 트리 구조를 이용한 부서 설정 코드 생성
