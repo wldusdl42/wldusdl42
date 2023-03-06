@@ -12,16 +12,13 @@ Fxgear (프리랜서, 2022.11 - 2023.~)
 <br/>
 
 #### :closed_book: 백준
-
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wldusdl42)
-
- <img src="http://mazandi.herokuapp.com/api?handle=wldusdl42&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=wldusdl42&theme=warm"/>
 <br/>
 
 #### :love_letter: Contact & Channel
 
-<b>E-mail</b> | wldusdl34@gmail.com
-
+<b>E-mail</b> | wldusdl34@gmail.com <br/>
 <b>Github</b> | https://github.com/wldusdl42
 <br/>
 
