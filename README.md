@@ -10,6 +10,7 @@
 <br/><br/>
 
 <h3>:raising_hand: Introduction<h3>
+<br/>
 
 <p>IWillSystems (2019.10 - 2022.07)</p> <br/>
 <p>Fxgear (프리랜서, 2022.11 - 2023.~)</p>
@@ -22,6 +23,7 @@
 <br/><br/>
 
 <h3>:love_letter: Contact & Channel<h3>
+<br/>
 
 E-mail | wldusdl34@gmail.com
 
