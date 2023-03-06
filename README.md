@@ -20,51 +20,38 @@
 
 #### :love_letter: Contact & Channel
 
-E-mail | wldusdl34@gmail.com
+- E-mail | wldusdl34@gmail.com
 
-Github | https://github.com/wldusdl42
+- Github | https://github.com/wldusdl42
 
 <br/>
 
 #### :wrench: Skills
-
-:point_right: FrontEnd
-
-JavaScript, HTML5, CSS3(SCSS), JS(ES6)
-
-Vue, React
-
-TypeScript, Redux
+##### FrontEnd
+- JavaScript, HTML5, CSS3(SCSS), JS(ES6)
+- Vue, React
+- TypeScript, Redux
 <br/>
-:point_right: BackEnd
 
-Node.js 
-
-Github | https://github.com/wldusdl42
-
+##### BackEnd
+- Node.js 
 <br/>
-:point_right: DevTools
 
-Visual Studio Code, Vim 
-
-Git, SourceTree
-
-Nginx, Jenkins, MySQL
-
-AWS EC2
-
+##### DevTools
+- Visual Studio Code, Vim 
+- Git, SourceTree
+- Nginx, Jenkins, MySQL
+- AWS EC2
 <br/>
-:point_right: Collaboration
 
-Jira & Confluence 
-
-Slack
-
+##### Collaboration
+- Jira & Confluence
+- Slack
 <br/>
 
 #### :computer: Work Experience & Projects
 
-:point_right: IWillSystems
+IWillSystems
 
 실시간 영상 플랫폼 Live-Director
 
