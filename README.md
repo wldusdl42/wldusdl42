@@ -8,16 +8,16 @@
 ﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
 
-<h4>:raising_hand: Introduction<h4>
+<h3>:raising_hand: Introduction<h3>
 
 4년 차 프론트엔드 개발자 김지연입니다.
 
 <br/>
-<h4>:point_right: 백준 코테</h4>
+<h3>:closed_book: 백준 코테</h3>
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wldusdl42)
 
-<h4>:point_right: Contact & Channel<h4>
+<h4>:love_letter: Contact & Channel<h4>
 
 E-mail | wldusdl34@gmail.com
 
