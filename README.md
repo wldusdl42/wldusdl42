@@ -9,10 +9,10 @@
 <br/>
 
 ### :raising_hand: Introduction
-1. IWillSystems (2019.10 - 2022.07)
-2. Fxgear (프리랜서, 2022.11 - 2023.~)
+- 아이윌시스템즈(IWillSystems) (2019.10 - 2022.07)
+- Fxgear (프리랜서, 2022.11 - 2023.~)
 
-<h3>:closed_book: 백준 코테</h3>
+### :closed_book: 백준
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wldusdl42)
 
