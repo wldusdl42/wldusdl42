@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <div align = "center">
-<h3>개발자 김지연입니다</h3>
+<h3>안녕하세요 개발자 김지연입니다</h3>
 <br/><br/>
 
 ﹏﹏﹏﹏﹏﹏﹏
@@ -11,13 +11,15 @@
 
 <h3>:raising_hand: Introduction<h3>
 
-4년 차 프론트엔드 개발자 김지연입니다.
+IWillSystems (2019.10 - 2022.07)
+Fxgear (프리랜서, 2022.11 - 2023.~)
 
-<br/>
+<br/><br/>
 
 <h3>:closed_book: 백준 코테</h3>
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wldusdl42)
+<br/><br/>
 
 <h4>:love_letter: Contact & Channel<h4>
 
@@ -26,6 +28,7 @@ E-mail | wldusdl34@gmail.com
 Github | https://github.com/wldusdl42
 
 <br/><br/>
+
 <h3>:wrench: Skills</h3>
 <br/>
 :point_right: FrontEnd
