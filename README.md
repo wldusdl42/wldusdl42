@@ -9,25 +9,25 @@
 #### :raising_hand: Introduction
 - 아이윌시스템즈(IWillSystems) (2019.10 - 2022.07)
 - Fxgear (프리랜서, 2022.11 - 2023.~)
+<br/>
 
 #### :closed_book: 백준
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wldusdl42)
 
  <img src="http://mazandi.herokuapp.com/api?handle=wldusdl42&theme=warm"/>
-<br/><br/>
+<br/>
 
 #### :love_letter: Contact & Channel
-<br/>
 
 E-mail | wldusdl34@gmail.com
 
 Github | https://github.com/wldusdl42
 
-<br/><br/>
+<br/>
 
 #### :wrench: Skills
-<br/>
+
 :point_right: FrontEnd
 
 JavaScript, HTML5, CSS3(SCSS), JS(ES6)
@@ -60,11 +60,10 @@ Jira & Confluence
 
 Slack
 
-<br/><br/>
+<br/>
 
 #### :computer: Work Experience & Projects
 
-<br/>
 :point_right: IWillSystems
 
 실시간 영상 플랫폼 Live-Director
