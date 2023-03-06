@@ -17,7 +17,7 @@
  <img src="http://mazandi.herokuapp.com/api?handle=wldusdl42&theme=warm"/>
 <br/><br/>
 
-<h3>:love_letter: Contact & Channel<h3>
+#### :love_letter: Contact & Channel
 <br/>
 
 E-mail | wldusdl34@gmail.com
@@ -26,7 +26,7 @@ Github | https://github.com/wldusdl42
 
 <br/><br/>
 
-<h3>:wrench: Skills</h3>
+#### :wrench: Skills
 <br/>
 :point_right: FrontEnd
 
@@ -61,7 +61,8 @@ Jira & Confluence
 Slack
 
 <br/><br/>
-<h3>:computer: Work Experience & Projects</h3>
+
+#### :computer: Work Experience & Projects
 
 <br/>
 :point_right: IWillSystems
