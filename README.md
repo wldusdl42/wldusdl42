@@ -11,8 +11,8 @@
 
 <h3>:raising_hand: Introduction<h3>
 
-IWillSystems (2019.10 - 2022.07)
-Fxgear (프리랜서, 2022.11 - 2023.~)
+<p>IWillSystems (2019.10 - 2022.07)</p> <br/>
+<p>Fxgear (프리랜서, 2022.11 - 2023.~)</p>
 
 <br/><br/>
 
@@ -21,7 +21,7 @@ Fxgear (프리랜서, 2022.11 - 2023.~)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wldusdl42)
 <br/><br/>
 
-<h4>:love_letter: Contact & Channel<h4>
+<h3>:love_letter: Contact & Channel<h3>
 
 E-mail | wldusdl34@gmail.com
 
