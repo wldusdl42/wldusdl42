@@ -1,23 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 <div align = "center">
-
 <br/>
+<h3>개발자 김지연입니다</h3><br/>
 
-<h3>개발자 김지연입니다 🥳 </h3><br/>
+<br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldusdl42&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/>
-
 ﹏﹏﹏﹏﹏﹏﹏
+<br/><br/>
 
-:point_right: Introduction
+<h4>:point_right: Introduction<h4>
 
 4년 차 프론트엔드 개발자 김지연입니다.
 
 <br/>
 
-:point_right: Contact & Channel
+<h4>:point_right: Contact & Channel<h4>
 
 E-mail | wldusdl34@gmail.com
 
