@@ -1,41 +1,45 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-개발자 김지연입니다
+<div align = "center">
+
+<br/>
+
+<h3>개발자 김지연입니다</h3><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldusdl42&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<br/><br/>
 :woman: About me
 
-Introduction :point_left:
+:point_right: Introduction
               4년 차 프론트엔드 개발자 김지연입니다.
               
-Contact & Channel :point_left:
+:point_right: Contact & Channel
               E-mail | wldusdl34@gmail.com
               Github | https://github.com/wldusdl42
 
 
 :wrench: Skills
 
-FrontEnd :point_left:
+:point_right: FrontEnd
               JavaScript, HTML5, CSS3(SCSS), JS(ES6)
               Vue, React
               TypeScript, Redux
-BackEnd :point_left:
+:point_right: BackEnd
               Node.js 
               Github | https://github.com/wldusdl42
-DevTools :point_left:
+:point_right: DevTools
               Visual Studio Code, Vim 
               Git, SourceTree
               Nginx, Jenkins, MySQL
               AWS EC2
-Collaboration :point_left:
+:point_right: Collaboration
               Jira & Confluence 
               Slack
 
 
 :computer: Work Experience & Projects
 
-IWillSystems :point_left:
+:point_right: IWillSystems
               실시간 영상 플랫폼 Live-Director
               - JavaScript, Node.js, CSS
               - 트리 구조를 이용한 부서 설정 코드 생성
@@ -44,16 +48,19 @@ IWillSystems :point_left:
               - SessionStorage를 이용한 
               비대면 시험 감독 시스템
               - Vue 2.0, Vuex, SCSS, Vue
-BackEnd :point_left:
+:point_right: BackEnd
               Node.js 
               Github | https://github.com/wldusdl42
-Outsourcing :point_left:
+:point_right: Outsourcing
               React를 이용한 다국어 시스템 
-Indivisual :point_left:
+:point_right: Indivisual
               - AWS EC2 
               Git, SourceTree
               Nginx, Jenkins, MySQL
               AWS EC2
 
+</div>
+
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
