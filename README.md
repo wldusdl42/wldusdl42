@@ -7,8 +7,8 @@
 <br/>
 
 #### :raising_hand: Introduction
-- 아이윌시스템즈(IWillSystems) (2019.10 - 2022.07)
-- Fxgear (프리랜서, 2022.11 - 2023.~)
+아이윌시스템즈(IWillSystems) (2019.10 - 2022.07)
+Fxgear (프리랜서, 2022.11 - 2023.~)
 <br/>
 
 #### :closed_book: 백준
@@ -27,10 +27,10 @@
 <br/>
 
 #### :wrench: Skills
-- FrontEnd
-  - JavaScript, HTML5, CSS3(SCSS), JS(ES6)
-  - Vue, React
-  - TypeScript, Redux
+<b>FrontEnd</b>
+- JavaScript, HTML5, CSS3(SCSS), JS(ES6)
+- Vue, React
+- TypeScript, Redux
 
 - BackEnd
   - Node.js 
@@ -57,7 +57,7 @@ IWillSystems
   - SessionStorage를 이용한 
 
 - 비대면 시험 감독 시스템
-  - Vue 2.0, Vuex, SCSS, Vue
+  - Vue 2.0, Vuex, SCSS 등
 
 <br/>
 
