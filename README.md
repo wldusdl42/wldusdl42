@@ -20,9 +20,9 @@
 
 #### :love_letter: Contact & Channel
 
-- E-mail | wldusdl34@gmail.com
+E-mail | wldusdl34@gmail.com
 
-- Github | https://github.com/wldusdl42
+Github | https://github.com/wldusdl42
 
 <br/>
 
@@ -31,18 +31,15 @@
 - JavaScript, HTML5, CSS3(SCSS), JS(ES6)
 - Vue, React
 - TypeScript, Redux
-<br/>
 
 ##### BackEnd
 - Node.js 
-<br/>
 
 ##### DevTools
 - Visual Studio Code, Vim 
 - Git, SourceTree
 - Nginx, Jenkins, MySQL
 - AWS EC2
-<br/>
 
 ##### Collaboration
 - Jira & Confluence
@@ -51,25 +48,16 @@
 
 #### :computer: Work Experience & Projects
 
-IWillSystems
+##### IWillSystems
+- 실시간 영상 플랫폼 Live-Director
+  - JavaScript, Node.js, CSS
+  - 트리 구조를 이용한 부서 설정 코드 생성
+  - 다수의 쿼리 튜닝 경험 및 쿼리 생성
+  - Linux 웹 서버 가동 및 웹 서버 구축 경험
+  - SessionStorage를 이용한 
 
-실시간 영상 플랫폼 Live-Director
-
-- JavaScript, Node.js, CSS
-
-- 트리 구조를 이용한 부서 설정 코드 생성
-
-- 다수의 쿼리 튜닝 경험 및 쿼리 생성
-
-- Linux 웹 서버 가동 및 웹 서버 구축 경험
-
-- SessionStorage를 이용한 
-
-비대면 시험 감독 시스템
-
-- Vue 2.0, Vuex, SCSS, Vue
-
-
+- 비대면 시험 감독 시스템
+  - Vue 2.0, Vuex, SCSS, Vue
 
 <br/>
 
