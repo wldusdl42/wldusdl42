@@ -7,7 +7,7 @@
 <br/>
 
 #### :raising_hand: Introduction
-아이윌시스템즈(IWillSystems) (2019.10 - 2022.07) <br>
+아이윌시스템즈 (IwillSystems) (2019.10 - 2022.07) <br>
 Fxgear (프리랜서, 2022.11 - 2023.~)
 <br/>
 
@@ -23,7 +23,6 @@ Fxgear (프리랜서, 2022.11 - 2023.~)
 <b>E-mail</b> | wldusdl34@gmail.com
 
 <b>Github</b> | https://github.com/wldusdl42
-
 <br/>
 
 #### :wrench: Skills
@@ -35,7 +34,7 @@ Fxgear (프리랜서, 2022.11 - 2023.~)
 <b>BackEnd</b>
 - Node.js 
 
-<b>DevTools</b>
+<b>Dev Tools</b>
 - Visual Studio Code, Vim 
 - Git, SourceTree
 - Nginx, Jenkins, MySQL
@@ -54,11 +53,10 @@ Fxgear (프리랜서, 2022.11 - 2023.~)
   - 트리 구조를 이용한 부서 설정 코드 생성
   - 다수의 쿼리 튜닝 경험 및 쿼리 생성
   - Linux 웹 서버 가동 및 웹 서버 구축 경험
-  - SessionStorage를 이용한 
+  - Storage를 이용한 정보 보안
 
 - 비대면 시험 감독 시스템
   - Vue 2.0, Vuex, SCSS 등
-
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
