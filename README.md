@@ -20,35 +20,35 @@
 
 #### :love_letter: Contact & Channel
 
-E-mail | wldusdl34@gmail.com
+<b>E-mail</b> | wldusdl34@gmail.com
 
-Github | https://github.com/wldusdl42
+<b>Github</b> | https://github.com/wldusdl42
 
 <br/>
 
 #### :wrench: Skills
-##### FrontEnd
-- JavaScript, HTML5, CSS3(SCSS), JS(ES6)
-- Vue, React
-- TypeScript, Redux
+- FrontEnd
+  - JavaScript, HTML5, CSS3(SCSS), JS(ES6)
+  - Vue, React
+  - TypeScript, Redux
 
-##### BackEnd
-- Node.js 
+- BackEnd
+  - Node.js 
 
-##### DevTools
-- Visual Studio Code, Vim 
-- Git, SourceTree
-- Nginx, Jenkins, MySQL
-- AWS EC2
+- DevTools
+  - Visual Studio Code, Vim 
+  - Git, SourceTree
+  - Nginx, Jenkins, MySQL
+  - AWS EC2
 
-##### Collaboration
-- Jira & Confluence
-- Slack
+- Collaboration
+  - Jira & Confluence
+  - Slack
 <br/>
 
 #### :computer: Work Experience & Projects
 
-##### IWillSystems
+IWillSystems
 - 실시간 영상 플랫폼 Live-Director
   - JavaScript, Node.js, CSS
   - 트리 구조를 이용한 부서 설정 코드 생성
