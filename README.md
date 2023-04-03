@@ -8,7 +8,7 @@
 
 #### :raising_hand: Introduction
 아이윌시스템즈 (IwillSystems) (2019.10 - 2022.07) <br>
-Fxgear (프리랜서, 2022.11 - 2023.~)
+Fxgear (프리랜서, 2022.11 - 2023.3)
 <br/>
 
 #### :closed_book: 백준
