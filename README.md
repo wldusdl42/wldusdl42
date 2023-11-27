@@ -20,7 +20,8 @@ Fxgear (프리랜서, 2022.11 - 2023.3) <br>
 #### :love_letter: Contact & Channel
 
 <b>E-mail</b> | wldusdl34@gmail.com <br/>
-<b>Github</b> | https://github.com/wldusdl42
+<b>Github</b> | https://github.com/wldusdl42 <br/>
+<b>Notion</b> | https://www.notion.so/invite/a70c3967e030e3320fbf3647ba81fb8ad8022cfa
 <br/>
 
 #### :wrench: Skills
