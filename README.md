@@ -8,7 +8,8 @@
 
 #### :raising_hand: Introduction
 아이윌시스템즈 (IwillSystems) (2019.10 - 2022.07) <br>
-Fxgear (프리랜서, 2022.11 - 2023.3)
+Fxgear (프리랜서, 2022.11 - 2023.3) <br>
+브이웨이 (2023.05 - 2023.10)
 <br/>
 
 #### :closed_book: 백준
@@ -54,6 +55,14 @@ Fxgear (프리랜서, 2022.11 - 2023.3)
 
 - 비대면 시험 감독 시스템
   - Vue 2.0, Vuex, SCSS 등
+<br/>
+
+<b>VWAY</b>
+- 애플리케이션 수명 주기 관리(ALM) 솔루션
+  - JavaScript, CSS, SCSS
+  - DHTMLX를 활용한 간트 차트, 캘린더, 다이어그램 개발 경험
+  - chart.js로 라인 차트, 파이 차트 개발
+  - 다국어 스크립트 제작
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
