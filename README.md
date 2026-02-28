@@ -28,7 +28,7 @@ Fxgear (프리랜서, 2022.11 - 2023.3) <br>
 #### :wrench: Skills
 <b>FrontEnd</b>
 - JavaScript, HTML5, CSS3(SCSS), JS(ES6)
-- Vue(2&3), React
+- Vue(2&3)
 - TypeScript, Redux
 - Nuxt.js
 
