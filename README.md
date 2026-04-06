@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <h3>안녕하세요 개발자 김지연입니다</h3>
 
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldusdl42&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/>
-
 #### :raising_hand: Introduction
 아이윌시스템즈 (IwillSystems) (2019.10 - 2022.07) <br>
 Fxgear (프리랜서, 2022.11 - 2023.3) <br>
