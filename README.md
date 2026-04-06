@@ -77,16 +77,19 @@ Fxgear (프리랜서, 2022.11 - 2023.3) <br>
 <br/>
 
 <b>크레버스</b>
-- i-Garten 아이러닝 담당
-  - 유아 및 초등 대상 영어 교육 영어 읽기·쓰기, Storytelling 프로그램(5–7세 유아, 초등 저학년 대상으로 구성됨)
-  - Vue3, TypeScript, CSS, SCSS, Nuxt.js
-  - spine 애니메이션 작업
-  - native app과 연동하여 AOS, IOS 태블릿 단일 싱글톤 음성 재생 로직 구성 등
-  - 다국어 스크립트 제작
+- i-Garten 아이러닝
+  - 5–7세 유아 및 초등 저학년 대상 영어 읽기·쓰기·말하기 학습 프로그램 프론트엔드 개발
+  - Vue 3, Nuxt 3(CSR/SPA), TypeScript, SCSS
+  - Pinia 커스텀 상태관리 아키텍처 설계
+  - Spine 애니메이션, Howler.js 오디오, interact.js 드래그앤드롭 등 멀티미디어 인터랙션 스택 통합
+  - iOS/AOS 네이티브 앱 브릿지(`nativeInterface.js`) 연동, 태블릿 환경 단일 싱글톤 음성 재생 로직 구현
+  - Azure Blob Storage SAS 토큰 기반 파일 업로드 및 베트남 로케일 CDN 분기 처리
+  - 한국어·영어·베트남어 3개 언어 다국어(vue-i18n) 및 글로벌 배포 분기 처리
+  - Jenkins CI/CD 파이프라인 구성 (빌드 → Nexus 패키지 배포 → Ansible Tower 서버 배포)
   
 - Allim 학부모 웹앱(Web App)
   - 웹을 기반으로 제작된 학부모용 스마트 알리미 앱(어플리케이션) iOS 및 Android에서 제공됨, 구글플레이 기준 10만 건 이상 다운로드
-  - Vue2, JavaScript, CSS, SCSS
+  - Vue2, Vue3, JavaScript, CSS, SCSS
   - 기존 코르도바 앱 > 웹앱 전환
   - CLC, 메솔로지 페이지 신규 작업 등
   - 자녀의 출결, 성적, 학습 활동 실시간 push 메세지 작업(IOS > APNS, AOS > FCM)
@@ -99,6 +102,14 @@ Fxgear (프리랜서, 2022.11 - 2023.3) <br>
   - PC/모바일 웹 또는 앱에서 동작
   - 디스플레이 이미지 팝업 작업(팝업 이미지 변경 체인지, 팝업 이미지 변경 세이브, 팝업 이미지 변경 리셋, 팝업 셀렉트 이미지 체인지, 메인 이미지 체인지, 최초 이미지 생성 시 분기처리 등)
   - 레포트 페이지 Term Registration, Attendance 카테고리 페이지 작업 등
+ 
+- 상담포털
+  - 전국 지점 상담사가 학생 상담 이력을 관리하고 실시간 전화 통화를 처리하는 사내 B2B 어드민 포털
+  - Vue3, TypeScript, Pinia, Vue Router, Axios, Socket.io-client, Vite
+  - IPCC(IP 컨택센터) CTI 서버와 Socket.io로 실시간 통화 연동 (인바운드/아웃바운드/호전환/보류/녹취/ARS 동의 처리 등)
+  - 전화 수신 시 전화번호 역조회로 회원·비회원 자동 매핑 및 멀티탭 자동 오픈
+  - 라우터 가드에서 권한 레벨(6단계) 및 지점 기반 페이지 접근 제어, 비동기 초기화 대기 처리
+  - Pinia 기반 탭 상태 LocalStorage 영속성 관리 및 미저장 변경사항 이동 차단 기능 구현
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
